@@ -1,6 +1,6 @@
 # Toy Model Training using Keras and CollisionDB
 
-**Disclaimer:** The included code is a conceptual example (toy model) and might require modifications depending on the specific fusion reactor type, available data, and desired modeling outcomes.  You should independently verify the chosen neural network architecture, hyperparameters, and data preprocessing techniques for your specific application.
+**Disclaimer:** The included code is a conceptual example (toy model) and might require modifications depending on the specific fusion reactor type (this code made with dueterium fueled Tokamak reactors in mind), available data, and desired modeling outcomes.  You should independently verify the chosen neural network architecture, hyperparameters, and data preprocessing techniques for your specific application.
 
 ## Important Considerations for Training a Neural Network on CollisionDB Data
 
